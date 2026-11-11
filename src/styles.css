@@ -1,0 +1,11 @@
+﻿:root { font-family: "Segoe UI", system-ui, sans-serif; color: #142033; background: #f4f7fb; }
+body { margin: 0; }
+.wrap { max-width: 800px; margin: 0 auto; padding: 40px 18px 64px; }
+header p { color: #5b6b7c; }
+.state { padding: 14px 16px; border-radius: 12px; background: #e8eef6; }
+.state.error { background: #fde8e8; color: #8a1f1f; }
+.list { list-style: none; padding: 0; margin: 24px 0 0; display: grid; gap: 12px; }
+.list li { background: white; border: 1px solid #d7e0ea; border-radius: 14px; padding: 16px; }
+.list h2 { margin: 6px 0 8px; font-size: 1.05rem; text-transform: capitalize; }
+.list p { margin: 0; color: #4d5d6f; line-height: 1.45; }
+.list strong { color: #c56b2b; font-size: .85rem; }
